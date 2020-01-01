@@ -1,7 +1,7 @@
 {
-  "name": "show-me-the-money",
+  "name": "where-the-goods-at",
   "version": "0.3.0",
-  "description": "$how Me The Money",
+  "description": "where-the-goods-at",
   "repository": "https://github.com/dev-academy-challenges/show-me-the-money.git",
   "main": "server/index.js",
   "scripts": {
