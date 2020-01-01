@@ -2,7 +2,8 @@
 
 ## Final Project
 
-Find the free food
+Final project for EDA bootcamp. I was part of 7 people group. The author of idea pitched this as she had the same thing only on actual paper map. Over the course of 1 week we managed to move those contents on actual website and google map with the possibility to register, set private locations or share with others.
+http://urban-forager.herokuapp.com/
 
 ## The Tech
 
